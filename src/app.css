@@ -1,0 +1,44 @@
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+h1, h2, h3, p {
+    margin: 0 0 1.5rem 0;
+}
+
+h1 {
+    font-size: 4.2rem;
+}
+
+h2 {
+    font-size: 3.2rem;
+}
+
+h3 {
+    margin-top: 1.5rem;
+    font-size: 2.2rem;
+}
+
+p {
+    font-size: 1.6rem;
+}
+
+body {
+    background-color: #CCB69B;
+    font-family: 'Noticia Text', serif;
+}
+
+.container {
+    width: 95%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.margin-top{
+    margin-top: 5rem;
+}

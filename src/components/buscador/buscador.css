@@ -1,0 +1,24 @@
+.select{
+    padding: 1rem 2rem;
+    font-size: 1.5rem;
+    border: none;
+    border-radius: 1.5rem;
+}
+
+.contenedor{
+    margin-top: 6rem;
+}
+
+@media (max-width: 650px) {
+    .contenedor{
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 768px) {
+    .contenedor{
+        display: flex;
+        justify-content: center;
+    }
+}

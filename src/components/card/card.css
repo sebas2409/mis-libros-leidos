@@ -1,0 +1,27 @@
+.card{
+    background-color: #6f586c;
+    border-radius: 4rem;
+    width: 30rem;
+    border: 1px solid #473144;
+    margin-top: 2rem;
+}
+
+
+img{
+    padding: 2rem 2rem;
+    border-radius: 5rem;
+    height: 30rem;
+    width: 30rem;
+}
+
+@media (max-width: 768px) {
+    .card{
+        margin: 0 2rem;
+    }
+}
+
+@media (max-width: 650px) {
+    .card{
+        margin-top: 2rem;
+    }
+}
